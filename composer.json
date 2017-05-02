@@ -1,0 +1,11 @@
+{
+  "name": "fcarribero/cfdi-catalogos",
+  "description": "Catálogos CFDI SAT",
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
